@@ -1,0 +1,11 @@
+welcome: demo.yml
+data-postgre:
+  greeting: hi, xxx
+
+acct_err_00a:
+  us:
+    message: "please provide accounts id"
+  cn:
+    message: "错误"
+
+
