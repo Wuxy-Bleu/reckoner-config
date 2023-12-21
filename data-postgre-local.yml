@@ -3,7 +3,7 @@ data-postgre:
   greeting: hi, xxx
 
 errs:
-  us:
+  en:
     message: "please provide accounts id"
   cn:
     message: "错误"
