@@ -2,7 +2,7 @@ welcome: demo.yml
 data-postgre:
   greeting: hi, xxx
 
-Err00A:
+errs:
   us:
     message: "please provide accounts id"
   cn:
