@@ -7,5 +7,9 @@ errs:
     message: "please provide accounts id"
   cn:
     message: "错误"
-
+delete_not_exist:
+  en:
+    message: "entity not exists, please re fetch"
+  cn:
+    message: "xxx"
 
