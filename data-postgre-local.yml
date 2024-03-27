@@ -13,3 +13,6 @@ delete_not_exist:
   cn:
     message: "xxx"
 
+redisson-server:
+  url: "localhost"
+  port: 8311
